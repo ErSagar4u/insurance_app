@@ -2,7 +2,6 @@
 
 ### Features:
 - Register policyholders and claims
-- Import data from CSV
 - Analyze risk and generate reports
 
 ### How to Run:
